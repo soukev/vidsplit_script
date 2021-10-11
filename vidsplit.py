@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#
+# author: soukev
 import subprocess
 import sys
 import os
